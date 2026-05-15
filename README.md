@@ -142,12 +142,6 @@
 > 🛡️ **Cyber Top Talent 2024 CTF** · 💻 **ICPC 2024** · *(เกียรติบัตรเพิ่มเติมใน [Portfolio](https://gong-ix-ii-dev.com))*
 
 </td>
-<td width="40%" align="center">
-
-
-<sub>🏆 NSC 2024 Finalist Certificate</sub>
-
-</td>
 </tr>
 </table>
 
