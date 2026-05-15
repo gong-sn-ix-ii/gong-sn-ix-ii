@@ -126,38 +126,32 @@
 
 ## 🏆 Top Achievements
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ### 🥇 NSC 2024 — National Finalist
 **โครงการ Cybersecurise** ผ่านเข้ารอบชิงระดับประเทศ (NECTEC & NSTDA) พร้อมรับเงินสนับสนุนพัฒนาโครงการ
-
-<br/>
 
 ### 🤖 AI Engineer Prompt Hackathon 2024
 **อันดับ 8 ระดับประเทศ** — ได้รับตำแหน่งพิเศษ **"AI Engineer"** (ทีม "ctrl c ctrl v")
 
-<br/>
-
 ### 🏐 ประธานสภาฝ่ายกีฬา — สโมสรนักศึกษา (2023–2024)
 ตำแหน่งผู้นำในมหาวิทยาลัย บริหารกิจกรรมกีฬาของคณะวิทย์ฯ
 
-<br/>
-
 > 🛡️ **Cyber Top Talent 2024 CTF** · 💻 **ICPC 2024** · *(เกียรติบัตรเพิ่มเติมใน [Portfolio](https://gong-ix-ii-dev.com))*
 
+<br/>
+
+### 📜 เกียรติบัตร
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/gong-sn-ix-ii/Portfolio/main/src/assets/images/credentials/NSC2024/nsc.webp" alt="NSC 2024 Finalist Certificate" width="100%"/>
+<br/>
+<sub>🏆 <b>NSC 2024 Finalist Certificate</b><br/>National Software Contest — NECTEC & NSTDA</sub>
 </td>
-<td width="45%" align="center" valign="top">
-
-<img src="assets/nsc.webp" alt="NSC 2024 Finalist Certificate" width="100%"/>
-<sub>🏆 NSC 2024 Finalist Certificate</sub>
-
-<br/><br/>
-
-<img src="assets/AI Enginner Prompt.webp" alt="AI Engineer Prompt Award" width="100%"/>
-<sub>🤖 AI Engineer Prompt Award — Rank 8th</sub>
-
+<td width="50%" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/gong-sn-ix-ii/Portfolio/main/src/assets/images/credentials/Hackathon%202024/AI%20Enginner%20Prompt%20Award.webp" alt="AI Engineer Prompt Award" width="100%"/>
+<br/>
+<sub>🤖 <b>AI Engineer Prompt Award — Rank 8th</b><br/>AI Thailand Hackathon 2024: EP1 AI Cooking</sub>
 </td>
 </tr>
 </table>
