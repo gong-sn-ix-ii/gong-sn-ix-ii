@@ -150,7 +150,7 @@
 </td>
 <td width="45%" align="center" valign="top">
 
-<img src="assets/nsc-cert.webp" alt="NSC 2024 Finalist Certificate" width="100%"/>
+<img src="assets/nsc.webp" alt="NSC 2024 Finalist Certificate" width="100%"/>
 <sub>🏆 NSC 2024 Finalist Certificate</sub>
 
 <br/><br/>
