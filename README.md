@@ -144,7 +144,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/gong-sn-ix-ii/Portfolio/main/src/assets/images/credentials/NSC2024/nsc.webp" alt="NSC 2024 Finalist Certificate" width="100%"/>
+
 <sub>🏆 NSC 2024 Finalist Certificate</sub>
 
 </td>
