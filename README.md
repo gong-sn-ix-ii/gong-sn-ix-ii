@@ -152,25 +152,3 @@
 </table>
 
 ---
-
-## 📫 ติดต่อผม
-
-<div align="center">
-
-| ช่องทาง | รายละเอียด |
-|---|---|
-| 🌐 Portfolio | [gong-ix-ii-dev.com](https://gong-ix-ii-dev.com) |
-| 💼 LinkedIn | [Kitsada Khamnuan](https://www.linkedin.com/in/kitsada-khamnuan-2a6729407/) |
-| 📧 Email | gong.sn.ix.ii.dev@gmail.com |
-| 📱 Tel | +66 96-196-9105 |
-| 📍 พื้นที่ทำงาน | ชลบุรี / กรุงเทพฯ (On-site / Hybrid) |
-
-</div>
-
----
-
-<div align="center">
-
-Made with 💜 by **ก้อง — [Kitsada Khamnuan](https://gong-ix-ii-dev.com)**
-
-</div>
