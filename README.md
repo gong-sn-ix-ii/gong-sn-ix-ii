@@ -17,7 +17,7 @@
 ## 🧑‍💻 เกี่ยวกับผม
 
 **กฤษฎา คำนวน (ก้อง)** — Fresh Graduate Computer Science (GPA **3.60**) จาก **RMUTTO**
-มีประสบการณ์ Freelance Full-Stack & Mobile **6 เดือน** + **NSC 2024 National Finalist** + **AI Engineer Hackathon Top 8**
+มีประสบการณ์ Freelance Mobile & Full-stack Developer  **6 เดือน** + **NSC 2024 National Finalist** + **AI Engineer Hackathon Top 8**
 
 สนใจสาย **Mobile · Cybersecurity · AI/ML** มองหา **ตำแหน่ง Junior Software Engineer** เพื่อต่อยอดเป็น **AppSec หรือ AI Engineer** ใน 2–3 ปี
 
