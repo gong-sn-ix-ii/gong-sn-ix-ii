@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://gong-ix-ii-dev.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Sarabun&weight=700&size=28&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A+%E0%B8%9C%E0%B8%A1%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD+%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%87+%F0%9F%91%8B;Junior+Software+Engineer;Mobile+%E2%80%A2+Cybersecurity+%E2%80%A2+AI;NSC+2024+National+Finalist+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sarabun&weight=700&size=28&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A+%E0%B8%9C%E0%B8%A1%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD+%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%8E%E0%B8%B2+%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%99+%F0%9F%91%8B;Junior+Software+Engineer;Mobile+%E2%80%A2+Cybersecurity+%E2%80%A2+AI;NSC+2024+National+Finalist+%F0%9F%8F%86" alt="Typing SVG" />
 </a>
 
 <br/>
