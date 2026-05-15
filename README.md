@@ -150,12 +150,12 @@
 </td>
 <td width="45%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/gong-sn-ix-ii/Portfolio/main/src/assets/images/credentials/NSC2024/nsc.webp" alt="NSC 2024 Finalist Certificate" width="100%"/>
+<img src="assets/nsc-cert.webp" alt="NSC 2024 Finalist Certificate" width="100%"/>
 <sub>🏆 NSC 2024 Finalist Certificate</sub>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/gong-sn-ix-ii/Portfolio/main/src/assets/images/credentials/Hackathon%202024/AI%20Enginner%20Prompt%20Award.webp" alt="AI Engineer Prompt Award" width="100%"/>
+<img src="assets/AI Enginner Prompt.webp" alt="AI Engineer Prompt Award" width="100%"/>
 <sub>🤖 AI Engineer Prompt Award — Rank 8th</sub>
 
 </td>
