@@ -144,12 +144,12 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/gong-sn-ix-ii/Portfolio/main/src/assets/images/credentials/NSC2024/nsc.webp" alt="NSC 2024 Finalist Certificate" width="100%"/>
+<img src="assets/nsc.webp" alt="NSC 2024 Finalist Certificate" width="100%"/>
 <br/>
 <sub>🏆 <b>NSC 2024 Finalist Certificate</b><br/>National Software Contest — NECTEC & NSTDA</sub>
 </td>
 <td width="50%" align="center" valign="top">
-<img src="https://raw.githubusercontent.com/gong-sn-ix-ii/Portfolio/main/src/assets/images/credentials/Hackathon%202024/AI%20Enginner%20Prompt%20Award.webp" alt="AI Engineer Prompt Award" width="100%"/>
+<img src="assets/AI Enginner Prompt.webp" alt="AI Engineer Prompt Award" width="100%"/>
 <br/>
 <sub>🤖 <b>AI Engineer Prompt Award — Rank 8th</b><br/>AI Thailand Hackathon 2024: EP1 AI Cooking</sub>
 </td>
