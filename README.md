@@ -17,9 +17,9 @@
 ## 🧑‍💻 เกี่ยวกับผม
 
 **กฤษฎา คำนวน (ก้อง)** — Fresh Graduate Computer Science (GPA **3.60**) จาก **RMUTTO**
-มีประสบการณ์ Freelance Mobile & Full-stack Developer  **6 เดือน** + **NSC 2024 National Finalist** + **AI Engineer Hackathon Top 8**
+มีประสบการณ์ Freelance Mobile & Full-stack Developer **6 เดือน** + **NSC 2024 National Finalist** + **AI Engineer Hackathon Top 8**
 
-สนใจสาย **Mobile · Cybersecurity · AI/ML** มองหา **ตำแหน่ง Junior Mobile Developer | Fullstack Develioer | Software Engineer** เพื่อต่อยอดเป็น **AppSec หรือ AI Engineer** ใน 2–3 ปี
+สนใจสาย **Mobile · Cybersecurity · AI/ML** มองหา **ตำแหน่ง Junior Mobile Developer | Fullstack Developer | Software Engineer** เพื่อต่อยอดเป็น **AppSec หรือ AI Engineer** ใน 2–3 ปี
 
 > 🪖 ปัจจุบันปลดประจำการ กองทัพเรือ (Nov 2025 – May 2026) — พร้อมเริ่มงานเต็มตัว **พฤษภาคม 2026**
 
@@ -66,7 +66,7 @@
 
 ### 🛡️ [Cybersecurise](https://github.com/gong-sn-ix-ii/Cybersecurise)
 **🏆 NSC 2024 National Finalist**
-แอป Android ป้องกันมิจฉาชีพ ใช้ AI/NLP ตรวจ SMS Scam (95% accuracy)
+แอป Android ป้องกันมิจฉาชีพ ใช้ AI/NLP ตรวจ SMS Scam แบบ Offline (95% accuracy)
 
 `Kotlin` `Python` `Firebase` `NLP`
 
@@ -128,21 +128,60 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%" valign="top">
 
 ### 🥇 NSC 2024 — National Finalist
 **โครงการ Cybersecurise** ผ่านเข้ารอบชิงระดับประเทศ (NECTEC & NSTDA) พร้อมรับเงินสนับสนุนพัฒนาโครงการ
 
+<br/>
+
 ### 🤖 AI Engineer Prompt Hackathon 2024
 **อันดับ 8 ระดับประเทศ** — ได้รับตำแหน่งพิเศษ **"AI Engineer"** (ทีม "ctrl c ctrl v")
+
+<br/>
 
 ### 🏐 ประธานสภาฝ่ายกีฬา — สโมสรนักศึกษา (2023–2024)
 ตำแหน่งผู้นำในมหาวิทยาลัย บริหารกิจกรรมกีฬาของคณะวิทย์ฯ
 
+<br/>
+
 > 🛡️ **Cyber Top Talent 2024 CTF** · 💻 **ICPC 2024** · *(เกียรติบัตรเพิ่มเติมใน [Portfolio](https://gong-ix-ii-dev.com))*
+
+</td>
+<td width="45%" align="center" valign="top">
+
+<img src="https://raw.githubusercontent.com/gong-sn-ix-ii/Portfolio/main/src/assets/images/credentials/NSC2024/nsc.webp" alt="NSC 2024 Finalist Certificate" width="100%"/>
+<sub>🏆 NSC 2024 Finalist Certificate</sub>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/gong-sn-ix-ii/Portfolio/main/src/assets/images/credentials/Hackathon%202024/AI%20Enginner%20Prompt%20Award.webp" alt="AI Engineer Prompt Award" width="100%"/>
+<sub>🤖 AI Engineer Prompt Award — Rank 8th</sub>
 
 </td>
 </tr>
 </table>
 
 ---
+
+## 📫 ติดต่อผม
+
+<div align="center">
+
+| ช่องทาง | รายละเอียด |
+|---|---|
+| 🌐 Portfolio | [gong-ix-ii-dev.com](https://gong-ix-ii-dev.com) |
+| 💼 LinkedIn | [Kitsada Khamnuan](https://www.linkedin.com/in/kitsada-khamnuan-2a6729407/) |
+| 📧 Email | gong.sn.ix.ii.dev@gmail.com |
+| 📱 Tel | +66 96-196-9105 |
+| 📍 พื้นที่ทำงาน | ชลบุรี / กรุงเทพฯ (On-site / Hybrid) |
+
+</div>
+
+---
+
+<div align="center">
+
+Made with 💜 by **ก้อง — [Kitsada Khamnuan](https://gong-ix-ii-dev.com)**
+
+</div>
