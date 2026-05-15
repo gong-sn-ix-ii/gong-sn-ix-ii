@@ -66,7 +66,7 @@
 
 ### 🛡️ [Cybersecurise](https://github.com/gong-sn-ix-ii/Cybersecurise)
 **🏆 NSC 2024 National Finalist**
-แอป Android ป้องกันมิจฉาชีพ ใช้ AI/NLP ตรวจ SMS Scam แบบ Offline (95% accuracy)
+แอป Android ป้องกันมิจฉาชีพ ใช้ AI/NLP ตรวจ SMS Scam (95% accuracy)
 
 `Kotlin` `Python` `Firebase` `NLP`
 
