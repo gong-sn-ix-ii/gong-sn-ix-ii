@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://gong-ix-ii-dev.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=สวัสดีครับ+ผมชื่อ+ก้อง+👋;Junior+Software+Engineer;Mobile+%E2%80%A2+Cybersecurity+%E2%80%A2+AI;NSC+2024+National+Finalist+🏆" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sarabun&weight=700&size=28&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A+%E0%B8%9C%E0%B8%A1%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD+%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%87+%F0%9F%91%8B;Junior+Software+Engineer;Mobile+%E2%80%A2+Cybersecurity+%E2%80%A2+AI;NSC+2024+National+Finalist+%F0%9F%8F%86" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -144,14 +144,21 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="assets/nsc.webp" alt="NSC 2024 Finalist Certificate" width="100%"/>
+<img src="https://raw.githubusercontent.com/gong-sn-ix-ii/Portfolio/main/src/assets/images/credentials/NSC2024/nsc.webp" alt="NSC 2024 Finalist Certificate" width="100%"/>
 <br/>
 <sub>🏆 <b>NSC 2024 Finalist Certificate</b><br/>National Software Contest — NECTEC & NSTDA</sub>
 </td>
-<td width="50%" align="center" valign="top">
-<img src="assets/AI Enginner Prompt.webp" alt="AI Engineer Prompt Award" width="100%"/>
+<td width="50%" align="center" valign="top" rowspan="2">
+<img src="https://raw.githubusercontent.com/gong-sn-ix-ii/Portfolio/main/src/assets/images/credentials/Hackathon%202024/AI%20Enginner%20Prompt%20Award.webp" alt="AI Engineer Prompt Award" width="100%"/>
 <br/>
 <sub>🤖 <b>AI Engineer Prompt Award — Rank 8th</b><br/>AI Thailand Hackathon 2024: EP1 AI Cooking</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/gong-sn-ix-ii/Portfolio/main/src/assets/images/credentials/SciRmutto/00.webp" alt="Sports Council President Certificate" width="100%"/>
+<br/>
+<sub>🏐 <b>ประธานสภา ฝ่ายกีฬา</b><br/>สโมสรนักศึกษา คณะวิทยาศาสตร์และเทคโนโลยี · RMUTTO (2023–2024)</sub>
 </td>
 </tr>
 </table>
