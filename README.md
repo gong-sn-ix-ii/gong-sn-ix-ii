@@ -158,7 +158,7 @@
 <td width="50%" align="center" valign="top">
 <img src="assets/sci.webp" alt="AI Engineer Prompt Award" width="100%"/>
 <br/>
-<sub>🏐 <b>ประธานสภา ฝ่ายกีฬา</b><br/>สโมสรนักศึกษา คณะวิทยาศาสตร์และเทคโนโลยี · RMUTTO (2023–2024)</sub>
+<sub>🏐 <b>ประธานสภา ฝ่ายกีฬา</b><br/>สโมสรนักศึกษา คณะวิทยาศาสตร์และเทคโนโลยี · RMUTTO (2024–2025)</sub>
 </td>
 </tr>
 </table>
